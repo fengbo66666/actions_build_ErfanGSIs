@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://otaafsc-cost.h2os.com/OnePlus8T_CH/OnePlus8THydrogen_15.H.33_0330_2202142225/patch/CHN/OnePlus8THydrogen/OnePlus8THydrogen_15.H.33_0330_2202142225/OnePlus8THydrogen_15.H.33_OTA_0330_all_2202142225_c40919f36f2.zip
+  ROM_NAME: hydrogen os
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
